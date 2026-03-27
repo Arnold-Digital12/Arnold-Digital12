@@ -13,7 +13,7 @@
 
 ## 🌐 About Me
 
-```javascript
+
 const arnold = {
 name: "Arnold Botamba Longomo",
 username: "Arnold-Digital",
@@ -23,7 +23,7 @@ passion: ["Web Development", "Digital Marketing", "Africa's Digital Future"],
 languages: ["French 🇫🇷", "Lingala 🎵", "English 🌍"],
 lifePhilosophy: "Code with purpose. Market with soul. Dream without borders."
 };
-```
+
 
 ---
 
