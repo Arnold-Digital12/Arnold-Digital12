@@ -9,7 +9,7 @@
 
 </div>
 
----
+
 
 ## 🌐 About Me
 
@@ -25,7 +25,7 @@ lifePhilosophy: "Code with purpose. Market with soul. Dream without borders."
 };
 
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
